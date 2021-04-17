@@ -14,6 +14,7 @@
     "@ethersproject/bignumber": "^5.0.8",
     "@nomiclabs/hardhat-ethers": "^2.0.1",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/hardhat-upgrades": "./openzeppelin-hardhat-upgrades-1.6.0.tgz",
     "@typechain/ethers-v5": "^5.0.0",
     "@typechain/hardhat": "^1.0.1",
     "@types/chai": "^4.2.13",
